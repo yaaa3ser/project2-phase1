@@ -1,0 +1,62 @@
+.course-image {
+  width: 100%;
+}
+
+.section {
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+  border: 1px solid #d1d7dc;
+  padding: 20px;
+}
+
+.course {
+  width: 245px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 20px;
+}
+
+.section-title {
+  font-size: 30px;
+  margin-left: 0px;
+}
+
+.section-desc {
+  width: 70%;
+  margin-top: 10px;
+}
+
+.course-title {
+  font-size: 15px;
+}
+
+.explore-button {
+  background-color: white;
+  padding: 10px;
+  font-weight: bold;
+  border: 1px solid;
+  margin: 15px 0px 0;
+}
+
+.courses-list {
+  width: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.rate-star {
+  color: goldenrod;
+  font-size: smaller;
+}
+.course-author {
+  color: gray;
+  font-size: smaller;
+}
+.rate-number {
+  color: chocolate;
+  font-weight: bold;
+}
+.course-price {
+  font-weight: bold;
+}
